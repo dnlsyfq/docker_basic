@@ -1,0 +1,10 @@
+* Build image from dockerfile 
+```
+docker build -t python-imdb .
+```
+
+* Run image
+```
+docker run -t -i python-imdb
+```
+
